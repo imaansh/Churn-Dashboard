@@ -10,6 +10,6 @@ Telco Churn dataset - Kaggle
 3) Creating bins and multiple visualizations and formatting them as required.
 
 # Tableau Dasboard Images 
-Churn_1.jpeg
-
+https://github.com/imaansh/Churn-Dashboard/blob/7c25d4523190fa038f6507db5cbb17520aa4333e/Churn_1.jpeg
+https://github.com/imaansh/Churn-Dashboard/blob/7c25d4523190fa038f6507db5cbb17520aa4333e/Churn_2.jpeg
 
