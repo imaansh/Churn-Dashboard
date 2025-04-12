@@ -1,6 +1,5 @@
 # Churn-Dashboard
-Started learning Tableau to create effective visualistions.
-
+Started learning Tableau to create cool visualisations - because my learning language is visualising
 # Dataset Used
 Telco Churn dataset - Kaggle
 
@@ -9,7 +8,5 @@ Telco Churn dataset - Kaggle
 2) Creating and formatting sheets, and then combining them into a dashboard 
 3) Creating bins and multiple visualizations and formatting them as required.
 
-# Tableau Dasboard Images 
-https://github.com/imaansh/Churn-Dashboard/blob/7c25d4523190fa038f6507db5cbb17520aa4333e/Churn_1.jpeg
-https://github.com/imaansh/Churn-Dashboard/blob/7c25d4523190fa038f6507db5cbb17520aa4333e/Churn_2.jpeg
-
+## How the dasboard looks like? 
+![image](https://github.com/user-attachments/assets/f18c22c3-e58a-4bf3-b9c6-ca81bfae466a)
