@@ -2,7 +2,7 @@
 Started learning Tableau to create cool visualisations - because my learning language is visualising
 ## You can view my Dashboard here:
 <p align="center">
-  <a href="[https://your-link-here.com](https://public.tableau.com/app/profile/imaan.shahid5731/viz/ChurnDashboard_17444537235180/ChurnDashboard?publish=yes)">
+  <a href="https://public.tableau.com/app/profile/imaan.shahid5731/viz/ChurnDashboard_17444537235180/ChurnDashboard?publish=yes">
     <img src="https://img.shields.io/badge/View%20Dashboard-Click%20Here-blue?style=for-the-badge" alt="Dashboard Link"/>
   </a>
 </p>
